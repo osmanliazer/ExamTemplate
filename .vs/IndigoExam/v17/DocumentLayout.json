@@ -1,0 +1,380 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r215.17\\source\\repos\\IndigoExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66B27AA3-9BFB-4E30-AD05-9B75AA5AA7CD}|IndigoExam\\IndigoExam.csproj|c:\\users\\ca.r215.17\\source\\repos\\indigoexam\\indigoexam\\viewmodels\\category\\createcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B27AA3-9BFB-4E30-AD05-9B75AA5AA7CD}|IndigoExam\\IndigoExam.csproj|solutionrelative:indigoexam\\viewmodels\\category\\createcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B27AA3-9BFB-4E30-AD05-9B75AA5AA7CD}|IndigoExam\\IndigoExam.csproj|c:\\users\\ca.r215.17\\source\\repos\\indigoexam\\indigoexam\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B27AA3-9BFB-4E30-AD05-9B75AA5AA7CD}|IndigoExam\\IndigoExam.csproj|solutionrelative:indigoexam\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B27AA3-9BFB-4E30-AD05-9B75AA5AA7CD}|IndigoExam\\IndigoExam.csproj|c:\\users\\ca.r215.17\\source\\repos\\indigoexam\\indigoexam\\dal\\indigocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B27AA3-9BFB-4E30-AD05-9B75AA5AA7CD}|IndigoExam\\IndigoExam.csproj|solutionrelative:indigoexam\\dal\\indigocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B27AA3-9BFB-4E30-AD05-9B75AA5AA7CD}|IndigoExam\\IndigoExam.csproj|c:\\users\\ca.r215.17\\source\\repos\\indigoexam\\indigoexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B27AA3-9BFB-4E30-AD05-9B75AA5AA7CD}|IndigoExam\\IndigoExam.csproj|solutionrelative:indigoexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B27AA3-9BFB-4E30-AD05-9B75AA5AA7CD}|IndigoExam\\IndigoExam.csproj|c:\\users\\ca.r215.17\\source\\repos\\indigoexam\\indigoexam\\areas\\admin\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B27AA3-9BFB-4E30-AD05-9B75AA5AA7CD}|IndigoExam\\IndigoExam.csproj|solutionrelative:indigoexam\\areas\\admin\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B27AA3-9BFB-4E30-AD05-9B75AA5AA7CD}|IndigoExam\\IndigoExam.csproj|c:\\users\\ca.r215.17\\source\\repos\\indigoexam\\indigoexam\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B27AA3-9BFB-4E30-AD05-9B75AA5AA7CD}|IndigoExam\\IndigoExam.csproj|solutionrelative:indigoexam\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B27AA3-9BFB-4E30-AD05-9B75AA5AA7CD}|IndigoExam\\IndigoExam.csproj|c:\\users\\ca.r215.17\\source\\repos\\indigoexam\\indigoexam\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B27AA3-9BFB-4E30-AD05-9B75AA5AA7CD}|IndigoExam\\IndigoExam.csproj|solutionrelative:indigoexam\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B27AA3-9BFB-4E30-AD05-9B75AA5AA7CD}|IndigoExam\\IndigoExam.csproj|c:\\users\\ca.r215.17\\source\\repos\\indigoexam\\indigoexam\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66B27AA3-9BFB-4E30-AD05-9B75AA5AA7CD}|IndigoExam\\IndigoExam.csproj|solutionrelative:indigoexam\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B27AA3-9BFB-4E30-AD05-9B75AA5AA7CD}|IndigoExam\\IndigoExam.csproj|c:\\users\\ca.r215.17\\source\\repos\\indigoexam\\indigoexam\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66B27AA3-9BFB-4E30-AD05-9B75AA5AA7CD}|IndigoExam\\IndigoExam.csproj|solutionrelative:indigoexam\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B27AA3-9BFB-4E30-AD05-9B75AA5AA7CD}|IndigoExam\\IndigoExam.csproj|c:\\users\\ca.r215.17\\source\\repos\\indigoexam\\indigoexam\\viewmodels\\category\\updatecategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B27AA3-9BFB-4E30-AD05-9B75AA5AA7CD}|IndigoExam\\IndigoExam.csproj|solutionrelative:indigoexam\\viewmodels\\category\\updatecategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ca.r215.17\\AppData\\Local\\Temp\\.vsdbgsrc\\bd4de1b77f5c424ec4e34159927b23eb31bd03d5915306524524b6c505169a5d\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B27AA3-9BFB-4E30-AD05-9B75AA5AA7CD}|IndigoExam\\IndigoExam.csproj|c:\\users\\ca.r215.17\\source\\repos\\indigoexam\\indigoexam\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B27AA3-9BFB-4E30-AD05-9B75AA5AA7CD}|IndigoExam\\IndigoExam.csproj|solutionrelative:indigoexam\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B27AA3-9BFB-4E30-AD05-9B75AA5AA7CD}|IndigoExam\\IndigoExam.csproj|c:\\users\\ca.r215.17\\source\\repos\\indigoexam\\indigoexam\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B27AA3-9BFB-4E30-AD05-9B75AA5AA7CD}|IndigoExam\\IndigoExam.csproj|solutionrelative:indigoexam\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B27AA3-9BFB-4E30-AD05-9B75AA5AA7CD}|IndigoExam\\IndigoExam.csproj|c:\\users\\ca.r215.17\\source\\repos\\indigoexam\\indigoexam\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66B27AA3-9BFB-4E30-AD05-9B75AA5AA7CD}|IndigoExam\\IndigoExam.csproj|solutionrelative:indigoexam\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B27AA3-9BFB-4E30-AD05-9B75AA5AA7CD}|IndigoExam\\IndigoExam.csproj|c:\\users\\ca.r215.17\\source\\repos\\indigoexam\\indigoexam\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66B27AA3-9BFB-4E30-AD05-9B75AA5AA7CD}|IndigoExam\\IndigoExam.csproj|solutionrelative:indigoexam\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B27AA3-9BFB-4E30-AD05-9B75AA5AA7CD}|IndigoExam\\IndigoExam.csproj|c:\\users\\ca.r215.17\\source\\repos\\indigoexam\\indigoexam\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B27AA3-9BFB-4E30-AD05-9B75AA5AA7CD}|IndigoExam\\IndigoExam.csproj|solutionrelative:indigoexam\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B27AA3-9BFB-4E30-AD05-9B75AA5AA7CD}|IndigoExam\\IndigoExam.csproj|c:\\users\\ca.r215.17\\source\\repos\\indigoexam\\indigoexam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66B27AA3-9BFB-4E30-AD05-9B75AA5AA7CD}|IndigoExam\\IndigoExam.csproj|solutionrelative:indigoexam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B27AA3-9BFB-4E30-AD05-9B75AA5AA7CD}|IndigoExam\\IndigoExam.csproj|c:\\users\\ca.r215.17\\source\\repos\\indigoexam\\indigoexam\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B27AA3-9BFB-4E30-AD05-9B75AA5AA7CD}|IndigoExam\\IndigoExam.csproj|solutionrelative:indigoexam\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B27AA3-9BFB-4E30-AD05-9B75AA5AA7CD}|IndigoExam\\IndigoExam.csproj|c:\\users\\ca.r215.17\\source\\repos\\indigoexam\\indigoexam\\areas\\admin\\views\\authentication\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66B27AA3-9BFB-4E30-AD05-9B75AA5AA7CD}|IndigoExam\\IndigoExam.csproj|solutionrelative:indigoexam\\areas\\admin\\views\\authentication\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B27AA3-9BFB-4E30-AD05-9B75AA5AA7CD}|IndigoExam\\IndigoExam.csproj|c:\\users\\ca.r215.17\\source\\repos\\indigoexam\\indigoexam\\areas\\admin\\views\\autendication\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66B27AA3-9BFB-4E30-AD05-9B75AA5AA7CD}|IndigoExam\\IndigoExam.csproj|solutionrelative:indigoexam\\areas\\admin\\views\\autendication\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66B27AA3-9BFB-4E30-AD05-9B75AA5AA7CD}|IndigoExam\\IndigoExam.csproj|c:\\users\\ca.r215.17\\source\\repos\\indigoexam\\indigoexam\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66B27AA3-9BFB-4E30-AD05-9B75AA5AA7CD}|IndigoExam\\IndigoExam.csproj|solutionrelative:indigoexam\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.17\\source\\repos\\IndigoExam\\IndigoExam\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "IndigoExam\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.17\\source\\repos\\IndigoExam\\IndigoExam\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "IndigoExam\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T09:14:52.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.17\\AppData\\Local\\Temp\\.vsdbgsrc\\bd4de1b77f5c424ec4e34159927b23eb31bd03d5915306524524b6c505169a5d\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\bd4de1b77f5c424ec4e34159927b23eb31bd03d5915306524524b6c505169a5d\\Program.cs",
+              "ToolTip": "C:\\Users\\ca.r215.17\\AppData\\Local\\Temp\\.vsdbgsrc\\bd4de1b77f5c424ec4e34159927b23eb31bd03d5915306524524b6c505169a5d\\Program.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\bd4de1b77f5c424ec4e34159927b23eb31bd03d5915306524524b6c505169a5d\\Program.cs [Read Only]",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T09:13:09.429Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.17\\source\\repos\\IndigoExam\\IndigoExam\\Program.cs",
+              "RelativeDocumentMoniker": "IndigoExam\\Program.cs",
+              "ToolTip": "C:\\Users\\ca.r215.17\\source\\repos\\IndigoExam\\IndigoExam\\Program.cs",
+              "RelativeToolTip": "IndigoExam\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:27:21.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateCategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.17\\source\\repos\\IndigoExam\\IndigoExam\\ViewModels\\Category\\CreateCategoryVM.cs",
+              "RelativeDocumentMoniker": "IndigoExam\\ViewModels\\Category\\CreateCategoryVM.cs",
+              "ToolTip": "C:\\Users\\ca.r215.17\\source\\repos\\IndigoExam\\IndigoExam\\ViewModels\\Category\\CreateCategoryVM.cs",
+              "RelativeToolTip": "IndigoExam\\ViewModels\\Category\\CreateCategoryVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:15:10.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.17\\source\\repos\\IndigoExam\\IndigoExam\\Areas\\Admin\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "IndigoExam\\Areas\\Admin\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\ca.r215.17\\source\\repos\\IndigoExam\\IndigoExam\\Areas\\Admin\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "IndigoExam\\Areas\\Admin\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:10:37.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.17\\source\\repos\\IndigoExam\\IndigoExam\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "IndigoExam\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\ca.r215.17\\source\\repos\\IndigoExam\\IndigoExam\\Models\\AppUser.cs",
+              "RelativeToolTip": "IndigoExam\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:18:49.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.17\\source\\repos\\IndigoExam\\IndigoExam\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "IndigoExam\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\ca.r215.17\\source\\repos\\IndigoExam\\IndigoExam\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "IndigoExam\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:55:09.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashBoardController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.17\\source\\repos\\IndigoExam\\IndigoExam\\Areas\\Admin\\Controllers\\DashBoardController.cs",
+              "RelativeDocumentMoniker": "IndigoExam\\Areas\\Admin\\Controllers\\DashBoardController.cs",
+              "ToolTip": "C:\\Users\\ca.r215.17\\source\\repos\\IndigoExam\\IndigoExam\\Areas\\Admin\\Controllers\\DashBoardController.cs",
+              "RelativeToolTip": "IndigoExam\\Areas\\Admin\\Controllers\\DashBoardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:02:26.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.17\\source\\repos\\IndigoExam\\IndigoExam\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "IndigoExam\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ca.r215.17\\source\\repos\\IndigoExam\\IndigoExam\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "IndigoExam\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:35:58.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IndigoContext.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.17\\source\\repos\\IndigoExam\\IndigoExam\\DAL\\IndigoContext.cs",
+              "RelativeDocumentMoniker": "IndigoExam\\DAL\\IndigoContext.cs",
+              "ToolTip": "C:\\Users\\ca.r215.17\\source\\repos\\IndigoExam\\IndigoExam\\DAL\\IndigoContext.cs",
+              "RelativeToolTip": "IndigoExam\\DAL\\IndigoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:11:41.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.17\\source\\repos\\IndigoExam\\IndigoExam\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeDocumentMoniker": "IndigoExam\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.17\\source\\repos\\IndigoExam\\IndigoExam\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeToolTip": "IndigoExam\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T09:14:59.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.17\\source\\repos\\IndigoExam\\IndigoExam\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "IndigoExam\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\ca.r215.17\\source\\repos\\IndigoExam\\IndigoExam\\Models\\Category.cs",
+              "RelativeToolTip": "IndigoExam\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:08:13.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateCategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.17\\source\\repos\\IndigoExam\\IndigoExam\\ViewModels\\Category\\UpdateCategoryVM.cs",
+              "RelativeDocumentMoniker": "IndigoExam\\ViewModels\\Category\\UpdateCategoryVM.cs",
+              "ToolTip": "C:\\Users\\ca.r215.17\\source\\repos\\IndigoExam\\IndigoExam\\ViewModels\\Category\\UpdateCategoryVM.cs",
+              "RelativeToolTip": "IndigoExam\\ViewModels\\Category\\UpdateCategoryVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:35:58.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.17\\source\\repos\\IndigoExam\\IndigoExam\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "IndigoExam\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.17\\source\\repos\\IndigoExam\\IndigoExam\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "IndigoExam\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T07:47:13.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.17\\source\\repos\\IndigoExam\\IndigoExam\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "IndigoExam\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.17\\source\\repos\\IndigoExam\\IndigoExam\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "IndigoExam\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T05:29:25.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.17\\source\\repos\\IndigoExam\\IndigoExam\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "IndigoExam\\ViewModels\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\ca.r215.17\\source\\repos\\IndigoExam\\IndigoExam\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "IndigoExam\\ViewModels\\LoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:49:01.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.17\\source\\repos\\IndigoExam\\IndigoExam\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "IndigoExam\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.17\\source\\repos\\IndigoExam\\IndigoExam\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "IndigoExam\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAEwG8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:30:56.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.17\\source\\repos\\IndigoExam\\IndigoExam\\ViewModels\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "IndigoExam\\ViewModels\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\ca.r215.17\\source\\repos\\IndigoExam\\IndigoExam\\ViewModels\\RegisterVM.cs",
+              "RelativeToolTip": "IndigoExam\\ViewModels\\RegisterVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:49:18.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.17\\source\\repos\\IndigoExam\\IndigoExam\\Areas\\Admin\\Views\\authentication\\Register.cshtml",
+              "RelativeDocumentMoniker": "IndigoExam\\Areas\\Admin\\Views\\authentication\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.17\\source\\repos\\IndigoExam\\IndigoExam\\Areas\\Admin\\Views\\authentication\\Register.cshtml",
+              "RelativeToolTip": "IndigoExam\\Areas\\Admin\\Views\\authentication\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T06:56:04.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.17\\source\\repos\\IndigoExam\\IndigoExam\\Areas\\Admin\\Views\\Autendication\\Login.cshtml",
+              "RelativeDocumentMoniker": "IndigoExam\\Areas\\Admin\\Views\\Autendication\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.17\\source\\repos\\IndigoExam\\IndigoExam\\Areas\\Admin\\Views\\Autendication\\Login.cshtml",
+              "RelativeToolTip": "IndigoExam\\Areas\\Admin\\Views\\Autendication\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T07:45:03.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.17\\source\\repos\\IndigoExam\\IndigoExam\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "IndigoExam\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.17\\source\\repos\\IndigoExam\\IndigoExam\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "IndigoExam\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAAFoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:36:00.803Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+﻿@using IndigoExam.ViewModels.Categorys
+﻿
+
+@model CreateCategoryVM
+
+<br />
+<br />
+<br />
+
+<form asp-action="Create" method="post" enctype="multipart/form-data">
+
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label">Name</label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Img" class="form-label">Photo</label>
+        <input asp-for="Img" class="form-control" type="file" />
+        <span asp-validation-for="Img" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

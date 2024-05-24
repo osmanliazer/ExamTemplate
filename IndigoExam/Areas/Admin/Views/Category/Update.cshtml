@@ -1,0 +1,27 @@
+﻿@using IndigoExam.ViewModels.Categorys
+@model UpdateCategoryVM
+
+<br />
+<br />
+<br />
+
+<form asp-action="Update" method="post" enctype="multipart/form-data">
+    <div class="mb-3">
+        <img style="img" width="100" height="100"  src="~/admin/images/products/@Model.Image" alt="Alternate Text" />
+      @*  <img src="admin/images/products/@Model.Image" /> *@
+        <input  asp-for="Image" type="hidden" class="form-control" />
+       
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label">Name</label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Photo" class="form-label">Photo</label>
+        <input asp-for="Photo" class="form-control" type="file" />
+        <span asp-validation-for="Photo" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
